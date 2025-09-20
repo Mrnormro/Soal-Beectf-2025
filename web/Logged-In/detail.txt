@@ -1,0 +1,1 @@
+The tax portal’s document viewer seems straightforward, but sometimes what gets logged can come back to bite. Can you find a way to leverage the site’s logging mechanism to access sensitive information on the server?
