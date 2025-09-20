@@ -1,0 +1,3 @@
+Ada 3 proses berjalan yang patut untuk diperhatikan. Total file yang harus didump untuk soal ini adalah 4 file. Tinggal ikutin flownya saja dari 3 proses tersebut.
+
+Key untuk encryption diketik di notepad yang sesuai di soal ngecrash. Tinggal di grep aja dengan cara yang benar. Untuk encryption menggunakan AES-CTR. Hasil decryption digunakan untuk membuka file keepass.
