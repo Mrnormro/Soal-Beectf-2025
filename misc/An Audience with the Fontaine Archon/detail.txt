@@ -2,3 +2,6 @@ Welcome to the stage. You have the rare opportunity to chat directly with Furina
 She holds a "divine password" and considers guarding it her final, grand performance.Chat with her, understand her dramatic personality, and steer the conversation in a way that leads her to reveal the flag.
 The password is the flag.
 Note: Try to click the Furina live2d model, and try to validate the flag first before submit to here.
+
+
+http://31.97.187.222:9000
